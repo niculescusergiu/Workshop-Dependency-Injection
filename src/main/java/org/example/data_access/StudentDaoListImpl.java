@@ -1,4 +1,8 @@
 package org.example.data_access;
 
-public class StudentDaoListImpl {
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class StudentDaoListImpl implements StudentDao{
 }
