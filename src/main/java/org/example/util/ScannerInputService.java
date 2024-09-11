@@ -17,7 +17,7 @@ public class ScannerInputService implements UserInputService{
 
 
     public String getString() {
-        return null;
+        return "";
     }
 
     public int getInt() {
